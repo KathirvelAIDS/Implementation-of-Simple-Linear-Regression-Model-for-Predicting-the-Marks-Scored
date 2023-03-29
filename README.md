@@ -107,7 +107,7 @@ print("RMSE = ",rmse
 ![image](https://user-images.githubusercontent.com/94911373/228477085-f182b942-8344-4b00-ba1d-24c5a18de642.png)
 
 
-![image](https://user-images.githubusercontent.com/94911373/228477119-98bc8013-b055-4756-a96f-cebc66978e1b.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/94911373/228477174-8c2a5a6e-40a0-4a62-8996-38afddb1c07e.png)
